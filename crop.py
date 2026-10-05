@@ -1,8 +1,9 @@
 
-class Farm: 
-    def __init__(self, name, farm_size, soil_type, region): 
-        self.name = name 
-        self.farm_size = farm_size 
-        self.soil_type = soil_type 
-        self.region = region 
-        self.crops = [] 
+class Crop:
+    def __init__(self, name, crop_type, water_needs, soil_prefrence, temprature_range):
+        self.name = name
+        self.crop_type = crop_type
+        self.water_needs = water_needs
+        self.soil_prefrence = soil_prefrence
+        self.temprature_range = temprature_range
+        self.seed_varieties = []
