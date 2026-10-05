@@ -1,0 +1,477 @@
+[
+    {
+        "id": "Q001",
+        "category": "Soil Management",
+        "difficulty": "Easy",
+        "question": "Which soil type is generally considered suitable for growing many common crops because it balances drainage and nutrient retention?",
+        "options": [
+            "Sandy soil",
+            "Loamy soil",
+            "Gravel",
+            "Pure clay"
+        ],
+        "answer": "Loamy soil",
+        "explanation": "Loamy soil usually combines sand, silt, and clay in proportions that support drainage, aeration, and nutrient retention.",
+        "points": 1,
+        "tags": [
+            "soil",
+            "crop production"
+        ]
+    },
+    {
+        "id": "Q002",
+        "category": "Soil Management",
+        "difficulty": "Medium",
+        "question": "What is the main purpose of adding compost to farm soil?",
+        "options": [
+            "To increase soil organic matter",
+            "To make soil permanently dry",
+            "To remove all microorganisms",
+            "To stop root growth"
+        ],
+        "answer": "To increase soil organic matter",
+        "explanation": "Compost adds organic matter, supports soil structure, and can improve water and nutrient retention.",
+        "points": 2,
+        "tags": [
+            "compost",
+            "soil fertility"
+        ]
+    },
+    {
+        "id": "Q003",
+        "category": "Soil Management",
+        "difficulty": "Hard",
+        "question": "A soil test shows strongly acidic soil. Which action is commonly used to raise its pH when recommended by an agricultural adviser?",
+        "options": [
+            "Apply agricultural lime at the recommended rate",
+            "Add more acid",
+            "Remove all topsoil",
+            "Stop irrigation permanently"
+        ],
+        "answer": "Apply agricultural lime at the recommended rate",
+        "explanation": "Agricultural lime can neutralize soil acidity. The correct amount should be based on soil testing and crop requirements.",
+        "points": 3,
+        "tags": [
+            "soil pH",
+            "soil testing"
+        ]
+    },
+    {
+        "id": "Q004",
+        "category": "Seed Production",
+        "difficulty": "Easy",
+        "question": "What is seed germination?",
+        "options": [
+            "The development of a seed into a young plant",
+            "The drying of harvested grain",
+            "The removal of weeds",
+            "The storage of fertilizer"
+        ],
+        "answer": "The development of a seed into a young plant",
+        "explanation": "Germination begins when a viable seed resumes growth under suitable moisture, oxygen, and temperature conditions.",
+        "points": 1,
+        "tags": [
+            "germination",
+            "seeds"
+        ]
+    },
+    {
+        "id": "Q005",
+        "category": "Seed Production",
+        "difficulty": "Medium",
+        "question": "Why should farmers use healthy, certified seed where available?",
+        "options": [
+            "It guarantees rain",
+            "It can improve varietal identity and seed quality",
+            "It eliminates every farm risk",
+            "It removes the need for field care"
+        ],
+        "answer": "It can improve varietal identity and seed quality",
+        "explanation": "Quality-assured seed can offer better purity, viability, and varietal identity, although good management is still essential.",
+        "points": 2,
+        "tags": [
+            "certified seed",
+            "quality"
+        ]
+    },
+    {
+        "id": "Q006",
+        "category": "Seed Production",
+        "difficulty": "Hard",
+        "question": "Why is isolation distance important in some seed production fields?",
+        "options": [
+            "To reduce unwanted cross-pollination or mixing",
+            "To increase soil salinity",
+            "To prevent all insects from entering the farm",
+            "To make seeds germinate without water"
+        ],
+        "answer": "To reduce unwanted cross-pollination or mixing",
+        "explanation": "Isolation helps maintain genetic purity by limiting pollen transfer or accidental mixing from nearby varieties or crops.",
+        "points": 3,
+        "tags": [
+            "isolation",
+            "genetic purity"
+        ]
+    },
+    {
+        "id": "Q007",
+        "category": "Crop Production",
+        "difficulty": "Easy",
+        "question": "Which of these is a cereal crop?",
+        "options": [
+            "Cassava",
+            "Maize",
+            "Yam",
+            "Groundnut"
+        ],
+        "answer": "Maize",
+        "explanation": "Maize is a cereal grain crop in the grass family.",
+        "points": 1,
+        "tags": [
+            "cereals",
+            "maize"
+        ]
+    },
+    {
+        "id": "Q008",
+        "category": "Crop Production",
+        "difficulty": "Medium",
+        "question": "What is crop rotation?",
+        "options": [
+            "Growing different crops in sequence on the same land",
+            "Planting one crop continuously forever",
+            "Harvesting crops only at night",
+            "Moving a tractor around the field"
+        ],
+        "answer": "Growing different crops in sequence on the same land",
+        "explanation": "Crop rotation changes the crop grown over time and can help manage pests, diseases, and soil fertility.",
+        "points": 2,
+        "tags": [
+            "rotation",
+            "farm planning"
+        ]
+    },
+    {
+        "id": "Q009",
+        "category": "Crop Production",
+        "difficulty": "Hard",
+        "question": "A farmer repeatedly grows the same crop and observes increasing pest pressure. Which practice may help disrupt the pest cycle?",
+        "options": [
+            "Crop rotation with a suitable non-host crop",
+            "Planting the same crop more densely every season",
+            "Ignoring field sanitation",
+            "Saving all infected residues in the field"
+        ],
+        "answer": "Crop rotation with a suitable non-host crop",
+        "explanation": "Rotation with a crop that does not host the pest can interrupt its life cycle. The choice depends on the pest and cropping system.",
+        "points": 3,
+        "tags": [
+            "integrated pest management",
+            "rotation"
+        ]
+    },
+    {
+        "id": "Q010",
+        "category": "Farm Machinery",
+        "difficulty": "Easy",
+        "question": "Which machine is commonly used to loosen and turn soil before planting?",
+        "options": [
+            "Plough",
+            "Water pump",
+            "Knapsack sprayer",
+            "Thresher"
+        ],
+        "answer": "Plough",
+        "explanation": "A plough is used for primary tillage, which loosens and turns soil in suitable farming systems.",
+        "points": 1,
+        "tags": [
+            "machinery",
+            "tillage"
+        ]
+    },
+    {
+        "id": "Q011",
+        "category": "Farm Machinery",
+        "difficulty": "Medium",
+        "question": "What should an operator do before servicing a tractor or powered farm machine?",
+        "options": [
+            "Switch it off, secure it, and follow safety procedures",
+            "Keep the engine running at high speed",
+            "Remove safety guards while it is moving",
+            "Ask someone to stand near moving parts"
+        ],
+        "answer": "Switch it off, secure it, and follow safety procedures",
+        "explanation": "Power should be isolated and equipment secured according to the manufacturer's instructions before maintenance.",
+        "points": 2,
+        "tags": [
+            "safety",
+            "maintenance"
+        ]
+    },
+    {
+        "id": "Q012",
+        "category": "Farm Machinery",
+        "difficulty": "Hard",
+        "question": "Why is matching an implement to a tractor's power and operating capacity important?",
+        "options": [
+            "To improve safe, efficient operation and reduce strain",
+            "To guarantee zero fuel use",
+            "To avoid reading the operator manual",
+            "To make every field operation identical"
+        ],
+        "answer": "To improve safe, efficient operation and reduce strain",
+        "explanation": "Correct matching supports performance, reduces excessive load, and can lower equipment wear and safety risks.",
+        "points": 3,
+        "tags": [
+            "tractor",
+            "efficiency"
+        ]
+    },
+    {
+        "id": "Q013",
+        "category": "Irrigation & Water",
+        "difficulty": "Easy",
+        "question": "Why do crops need water?",
+        "options": [
+            "For essential plant processes and growth",
+            "Only to wash leaves",
+            "To replace sunlight",
+            "To prevent all weeds"
+        ],
+        "answer": "For essential plant processes and growth",
+        "explanation": "Water supports photosynthesis, nutrient movement, cell function, and plant growth.",
+        "points": 1,
+        "tags": [
+            "water",
+            "plant growth"
+        ]
+    },
+    {
+        "id": "Q014",
+        "category": "Irrigation & Water",
+        "difficulty": "Medium",
+        "question": "Which irrigation method delivers water slowly near the plant root zone through emitters?",
+        "options": [
+            "Drip irrigation",
+            "Flooding every road",
+            "Overhead dusting",
+            "Dry tillage"
+        ],
+        "answer": "Drip irrigation",
+        "explanation": "Drip irrigation applies water near roots through emitters and can reduce evaporation and runoff when properly managed.",
+        "points": 2,
+        "tags": [
+            "drip irrigation",
+            "water management"
+        ]
+    },
+    {
+        "id": "Q015",
+        "category": "Irrigation & Water",
+        "difficulty": "Hard",
+        "question": "A field has waterlogging and poor root growth. Which response should be considered first?",
+        "options": [
+            "Assess drainage and soil conditions",
+            "Increase irrigation immediately",
+            "Compact the soil further",
+            "Cover the field with plastic permanently"
+        ],
+        "answer": "Assess drainage and soil conditions",
+        "explanation": "Waterlogging limits oxygen around roots. Diagnosis of drainage, soil structure, and water inputs guides corrective action.",
+        "points": 3,
+        "tags": [
+            "drainage",
+            "waterlogging"
+        ]
+    },
+    {
+        "id": "Q016",
+        "category": "Pest & Disease Management",
+        "difficulty": "Easy",
+        "question": "What is a weed?",
+        "options": [
+            "A plant growing where it is unwanted",
+            "Any crop plant",
+            "A type of fertilizer",
+            "A farm machine"
+        ],
+        "answer": "A plant growing where it is unwanted",
+        "explanation": "A weed is commonly defined by its unwanted presence and competition with crops or other intended plants.",
+        "points": 1,
+        "tags": [
+            "weeds",
+            "crop care"
+        ]
+    },
+    {
+        "id": "Q017",
+        "category": "Pest & Disease Management",
+        "difficulty": "Medium",
+        "question": "What does Integrated Pest Management (IPM) emphasize?",
+        "options": [
+            "Combining suitable methods to manage pests responsibly",
+            "Using the same pesticide for every problem",
+            "Never monitoring crops",
+            "Eradicating all insects, including beneficial ones"
+        ],
+        "answer": "Combining suitable methods to manage pests responsibly",
+        "explanation": "IPM combines monitoring, prevention, cultural, biological, and carefully selected chemical controls as appropriate.",
+        "points": 2,
+        "tags": [
+            "IPM",
+            "pest management"
+        ]
+    },
+    {
+        "id": "Q018",
+        "category": "Pest & Disease Management",
+        "difficulty": "Hard",
+        "question": "Before choosing a pesticide for an identified crop pest, what is the most responsible step?",
+        "options": [
+            "Confirm the pest and follow approved label and local guidance",
+            "Choose the strongest product without checking the label",
+            "Double the label rate",
+            "Mix products randomly"
+        ],
+        "answer": "Confirm the pest and follow approved label and local guidance",
+        "explanation": "Correct identification and label-compliant use reduce risks to people, crops, beneficial organisms, and the environment.",
+        "points": 3,
+        "tags": [
+            "pesticide safety",
+            "diagnosis"
+        ]
+    },
+    {
+        "id": "Q019",
+        "category": "Post-Harvest Handling",
+        "difficulty": "Easy",
+        "question": "Why should harvested grain be dried to a safe moisture level before storage?",
+        "options": [
+            "To reduce mould and spoilage risk",
+            "To increase stones in the grain",
+            "To encourage insect growth",
+            "To make grain absorb rain"
+        ],
+        "answer": "To reduce mould and spoilage risk",
+        "explanation": "Excess moisture encourages mould, heating, and deterioration during storage.",
+        "points": 1,
+        "tags": [
+            "drying",
+            "storage"
+        ]
+    },
+    {
+        "id": "Q020",
+        "category": "Post-Harvest Handling",
+        "difficulty": "Medium",
+        "question": "What is the purpose of cleaning harvested seed before packaging?",
+        "options": [
+            "To remove debris and unwanted material",
+            "To change its genetic variety",
+            "To guarantee germination in every condition",
+            "To increase its moisture"
+        ],
+        "answer": "To remove debris and unwanted material",
+        "explanation": "Cleaning improves physical purity by removing chaff, soil, damaged material, and other contaminants.",
+        "points": 2,
+        "tags": [
+            "seed cleaning",
+            "purity"
+        ]
+    },
+    {
+        "id": "Q021",
+        "category": "Farm Planning",
+        "difficulty": "Easy",
+        "question": "What is a farm record used for?",
+        "options": [
+            "Tracking activities, inputs, costs, and outcomes",
+            "Replacing all farm workers",
+            "Predicting weather with certainty",
+            "Making soil fertile instantly"
+        ],
+        "answer": "Tracking activities, inputs, costs, and outcomes",
+        "explanation": "Records help farmers monitor operations, evaluate performance, and make informed decisions.",
+        "points": 1,
+        "tags": [
+            "records",
+            "management"
+        ]
+    },
+    {
+        "id": "Q022",
+        "category": "Farm Planning",
+        "difficulty": "Medium",
+        "question": "A farmer wants to compare the profitability of two crops. Which information is most useful?",
+        "options": [
+            "Revenue and production costs for each crop",
+            "Only the colour of the crop",
+            "Only the number of farm tools",
+            "The farmer's preferred crop name"
+        ],
+        "answer": "Revenue and production costs for each crop",
+        "explanation": "Profit comparison requires estimating income and subtracting relevant production and marketing costs.",
+        "points": 2,
+        "tags": [
+            "budgeting",
+            "profit"
+        ]
+    },
+    {
+        "id": "Q023",
+        "category": "Climate-Smart Agriculture",
+        "difficulty": "Easy",
+        "question": "Which practice can help protect soil from erosion?",
+        "options": [
+            "Maintaining suitable ground cover",
+            "Leaving all soil bare",
+            "Cultivating steep slopes up and down without protection",
+            "Removing every plant residue"
+        ],
+        "answer": "Maintaining suitable ground cover",
+        "explanation": "Vegetation and suitable residues reduce raindrop impact and slow surface runoff.",
+        "points": 1,
+        "tags": [
+            "erosion",
+            "conservation"
+        ]
+    },
+    {
+        "id": "Q024",
+        "category": "Climate-Smart Agriculture",
+        "difficulty": "Medium",
+        "question": "What is one potential benefit of agroforestry?",
+        "options": [
+            "Combining trees with crops or livestock systems for multiple benefits",
+            "Removing all biodiversity",
+            "Preventing any need for farm planning",
+            "Making rainfall completely predictable"
+        ],
+        "answer": "Combining trees with crops or livestock systems for multiple benefits",
+        "explanation": "Well-designed agroforestry can provide products, shade, soil protection, and other ecosystem services.",
+        "points": 2,
+        "tags": [
+            "agroforestry",
+            "resilience"
+        ]
+    },
+    {
+        "id": "Q025",
+        "category": "Climate-Smart Agriculture",
+        "difficulty": "Hard",
+        "question": "A farmer faces increasingly irregular rainfall. Which strategy is a reasonable climate-risk response?",
+        "options": [
+            "Combine locally suitable crop choices, soil-water conservation, and seasonal information",
+            "Plant the same variety regardless of conditions",
+            "Ignore forecasts and soil moisture",
+            "Remove all organic matter from fields"
+        ],
+        "answer": "Combine locally suitable crop choices, soil-water conservation, and seasonal information",
+        "explanation": "Adaptation works best as a combination of locally appropriate measures, informed by reliable seasonal and farm-level information.",
+        "points": 3,
+        "tags": [
+            "climate adaptation",
+            "risk"
+        ]
+    }
+]

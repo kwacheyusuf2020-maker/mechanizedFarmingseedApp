@@ -1,0 +1,24 @@
+[
+    {
+        "learner": "Kwache Hamisu Yusuf",
+        "category": "Crop Production",
+        "difficulty": "Easy",
+        "correct_count": 0,
+        "question_count": 1,
+        "points_earned": 0,
+        "points_possible": 1,
+        "percentage": 0.0,
+        "completed_at": "2026-10-04T08:13:57+03:00"
+    },
+    {
+        "learner": "Hamisu Kwache",
+        "category": "Farm Machinery",
+        "difficulty": "Hard",
+        "correct_count": 1,
+        "question_count": 1,
+        "points_earned": 3,
+        "points_possible": 3,
+        "percentage": 100.0,
+        "completed_at": "2026-10-04T11:03:12+03:00"
+    }
+]
