@@ -1,29 +1,28 @@
 import os
 from dotenv import load_dotenv
-import google.generativeai as genai
+from google import genai
 
-# Load environment variables from .env
-load_dotenv()
 
 def get_ai_explanation(crop_name, farm_size, soil_type):
-    try:
-        api_key = os.getenv("GEMINI_API_KEY")
-        if not api_key:
-            return "API Key missing from .env file."
+    load_dotenv()
 
-        genai.configure(api_key=api_key)
-        model = genai.GenerativeModel("gemini-1.5-flash")
-        
+    if not os.getenv("GEMINI_API_KEY"):
+        return "API key not found. Add GEMINI_API_KEY to your private .env file."
+
+    try:
+        client = genai.Client()
         prompt = (
             f"Give a short, simple explanation of best practices for growing "
-            f"{crop_name} on a {farm_size} hectare farm with {soil_type} soil."
+            f"{crop_name} on a {farm_size}-hectare farm with {soil_type} soil."
         )
-        response = model.generate_content(prompt)
-        return response.text
-    except Exception as e:
-        return f"AI explanation unavailable right now: {e}"
+        response = client.interactions.create(
+            model="gemini-3.8-flash",
+            input=prompt,
+        )
+        return response.output_text
+    except Exception as error:
+        return f"AI explanation unavailable: {type(error).__name__}: {error}"
 
-# Quick test
+
 if __name__ == "__main__":
-    result = get_ai_explanation("Maize", 5, "Loamy")
-    print(result)
+    print(get_ai_explanation("Maize", 5, "Loamy"))
